@@ -8,7 +8,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Total | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| 150   | 5      | 2/41 | 3/84   | 0/25 |
+| 150   | 6      | 2/41 | 3/84   | 1/25 |
 
 ---
 
@@ -52,7 +52,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 | ⬜ | 151 | [Reverse Words in a String](./01_Array_String/151_Reverse_Words_in_a_String/) | Medium |
 | ⬜ | 6 | [Zigzag Conversion](./01_Array_String/006_Zigzag_Conversion/) | Medium |
 | ⬜ | 28 | [Find the Index of the First Occurrence in a String](./01_Array_String/028_Find_Index_First_Occurrence/) | Easy |
-| ⬜ | 68 | [Text Justification](./01_Array_String/068_Text_Justification/) | Hard |
+| ✅ | 68 | [Text Justification](./01_Array_String/068_Text_Justification/) | Hard |
 
 ---
 
