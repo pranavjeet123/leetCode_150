@@ -29,7 +29,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Status | # | Problem | Difficulty |
 |--------|---|---------|------------|
-| ⬜ | 88 | [Merge Sorted Array](./01_Array_String/088_Merge_Sorted_Array/) | Easy |
+| ✅ | 88 | [Merge Sorted Array](./01_Array_String/088_Merge_Sorted_Array/) | Easy |
 | ⬜ | 27 | [Remove Element](./01_Array_String/027_Remove_Element/) | Easy |
 | ⬜ | 26 | [Remove Duplicates from Sorted Array](./01_Array_String/026_Remove_Duplicates_from_Sorted_Array/) | Easy |
 | ⬜ | 80 | [Remove Duplicates from Sorted Array II](./01_Array_String/080_Remove_Duplicates_from_Sorted_Array_II/) | Medium |
