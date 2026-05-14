@@ -8,7 +8,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Total | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| 150   | 3      | 2/41 | 1/84   | 0/25 |
+| 150   | 4      | 2/41 | 2/84   | 0/25 |
 
 ---
 
@@ -34,7 +34,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 | ⬜ | 26 | [Remove Duplicates from Sorted Array](./01_Array_String/026_Remove_Duplicates_from_Sorted_Array/) | Easy |
 | ✅ | 80 | [Remove Duplicates from Sorted Array II](./01_Array_String/080_Remove_Duplicates_from_Sorted_Array_II/) | Medium |
 | ⬜ | 169 | [Majority Element](./01_Array_String/169_Majority_Element/) | Easy |
-| ⬜ | 189 | [Rotate Array](./01_Array_String/189_Rotate_Array/) | Medium |
+| ✅ | 189 | [Rotate Array](./01_Array_String/189_Rotate_Array/) | Medium |
 | ⬜ | 121 | [Best Time to Buy and Sell Stock](./01_Array_String/121_Best_Time_to_Buy_and_Sell_Stock/) | Easy |
 | ⬜ | 122 | [Best Time to Buy and Sell Stock II](./01_Array_String/122_Best_Time_to_Buy_and_Sell_Stock_II/) | Medium |
 | ⬜ | 55 | [Jump Game](./01_Array_String/055_Jump_Game/) | Medium |
