@@ -8,7 +8,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Total | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| 150   | 0      | 0/41 | 0/84   | 0/25 |
+| 150   | 3      | 2/41 | 1/84   | 0/25 |
 
 ---
 
@@ -32,7 +32,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 | ✅ | 88 | [Merge Sorted Array](./01_Array_String/088_Merge_Sorted_Array/) | Easy |
 | ⬜ | 27 | [Remove Element](./01_Array_String/027_Remove_Element/) | Easy |
 | ⬜ | 26 | [Remove Duplicates from Sorted Array](./01_Array_String/026_Remove_Duplicates_from_Sorted_Array/) | Easy |
-| ⬜ | 80 | [Remove Duplicates from Sorted Array II](./01_Array_String/080_Remove_Duplicates_from_Sorted_Array_II/) | Medium |
+| ✅ | 80 | [Remove Duplicates from Sorted Array II](./01_Array_String/080_Remove_Duplicates_from_Sorted_Array_II/) | Medium |
 | ⬜ | 169 | [Majority Element](./01_Array_String/169_Majority_Element/) | Easy |
 | ⬜ | 189 | [Rotate Array](./01_Array_String/189_Rotate_Array/) | Medium |
 | ⬜ | 121 | [Best Time to Buy and Sell Stock](./01_Array_String/121_Best_Time_to_Buy_and_Sell_Stock/) | Easy |
@@ -100,7 +100,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 | ⬜ | 290 | [Word Pattern](./05_Hashmap/290_Word_Pattern/) | Easy |
 | ⬜ | 242 | [Valid Anagram](./05_Hashmap/242_Valid_Anagram/) | Easy |
 | ⬜ | 49 | [Group Anagrams](./05_Hashmap/049_Group_Anagrams/) | Medium |
-| ⬜ | 1 | [Two Sum](./05_Hashmap/001_Two_Sum/) | Easy |
+| ✅ | 1 | [Two Sum](./05_Hashmap/001_Two_Sum/) | Easy |
 | ⬜ | 202 | [Happy Number](./05_Hashmap/202_Happy_Number/) | Easy |
 | ⬜ | 219 | [Contains Duplicate II](./05_Hashmap/219_Contains_Duplicate_II/) | Easy |
 | ⬜ | 128 | [Longest Consecutive Sequence](./05_Hashmap/128_Longest_Consecutive_Sequence/) | Medium |
