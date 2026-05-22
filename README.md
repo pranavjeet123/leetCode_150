@@ -8,7 +8,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Total | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| 150   | 8      | 2/41 | 5/84   | 1/25 |
+| 150   | 9      | 2/41 | 6/84   | 1/25 |
 
 ---
 
@@ -275,7 +275,7 @@ A structured reference for the [LeetCode Top Interview 150](https://leetcode.com
 
 | Status | # | Problem | Difficulty |
 |--------|---|---------|------------|
-| ⬜ | 215 | [Kth Largest Element in an Array](./19_Heap/215_Kth_Largest_Element/) | Medium |
+| ✅ | 215 | [Kth Largest Element in an Array](./19_Heap/215_Kth_Largest_Element/) | Medium |
 | ⬜ | 502 | [IPO](./19_Heap/502_IPO/) | Hard |
 | ⬜ | 373 | [Find K Pairs with Smallest Sums](./19_Heap/373_Find_K_Pairs_Smallest_Sums/) | Medium |
 | ⬜ | 295 | [Find Median from Data Stream](./19_Heap/295_Find_Median_from_Data_Stream/) | Hard |
